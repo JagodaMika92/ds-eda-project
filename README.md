@@ -1,6 +1,6 @@
 # EDA project - King County House Sales
 ## Data
-This repository contains exploratory data analysis of King County House Sales dataset to come up with several recommendations and insights for our stakeholder. Rhe first notebook [(Fetching_the_data_eda)](1_Fetching_the_data_eda.ipynb) describes how to fetch the data and save it in a csv file. To be able to plot location coordinates on a King Count map, dowload the zip folder `tl_2022_53033_addrfeat` from the [US Census website](https://www2.census.gov/geo/tiger/TIGER2022/ADDRFEAT/).
+This repository contains exploratory data analysis of King County House Sales dataset to come up with several recommendations and insights for our stakeholder. The first notebook [(Fetching_the_data_eda)](1_Fetching_the_data_eda.ipynb) describes how to fetch the data and save it in a csv file. To be able to plot location coordinates on a King Count map, dowload the zip folder `tl_2022_53033_addrfeat` from the [US Census website](https://www2.census.gov/geo/tiger/TIGER2022/ADDRFEAT/).
 
 ## Stakeholder
 Our stakeholder, Jennifer Montgomery, would like to buy a property and has following requirements:
